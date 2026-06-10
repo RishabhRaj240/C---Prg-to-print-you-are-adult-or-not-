@@ -58,7 +58,8 @@ Input:
 Output:
 You are an Adult
 
-📸 Screenshot -> <img width="1432" height="546" alt="Screenshot 2026-06-10 064758" src="https://github.com/user-attachments/assets/6776c96d-dad4-45c6-9858-1f5a6c21e7dc" />
+📸 Screenshot -> 
+<img width="1432" height="546" alt="Screenshot 2026-06-10 064758" src="https://github.com/user-attachments/assets/6776c96d-dad4-45c6-9858-1f5a6c21e7dc" />
 
 🎯 Learning Concepts
 
